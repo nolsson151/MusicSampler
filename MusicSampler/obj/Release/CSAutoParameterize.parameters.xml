@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AzureStorage-Web.config Connection String" description="AzureStorage Connection String used in web.config by the application to access the database." defaultValue="DefaultEndpointsProtocol=https;AccountName=ncostore180219;AccountKey=JRObmBkutOfWr+YTqO8Pj72TbUVBhJhZlwUNVhrTKt+/euLhlxjczx0zVhZv7JSKhqUyTFWpaz9bgBp/r6u1fg==;EndpointSuffix=core.windows.net" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Niklas\\documents\\visual\ studio\ 2015\\Projects\\MusicSampler\\MusicSampler\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureStorage']/@connectionString" />
+  </parameter>
+</parameters>
